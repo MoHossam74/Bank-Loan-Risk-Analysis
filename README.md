@@ -15,7 +15,7 @@ This project analyzes bank loan default risk using **SQL Server** and **Power BI
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Insights
 
